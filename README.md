@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
+I am a Software Enginner student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
 - 🌱 I’m currently learning ...
   - React Native
   - C#
