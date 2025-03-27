@@ -7,7 +7,7 @@
 I am a Software Enginner student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
 - 🌱 I’m currently learning ...
   - C#
-  - C++ 
+  - Typescript 
   - Python
   - React Native
   - Javascript
