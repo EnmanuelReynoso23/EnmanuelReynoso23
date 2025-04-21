@@ -11,7 +11,7 @@ I am a Software Enginner student, currently halfway through my degree. I am expa
   - Python
   - React Native
   - Javascript
-  - Back-End Web Development
+  - 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 
