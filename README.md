@@ -9,7 +9,7 @@ I am a Software Enginner student, currently halfway through my degree. I am expa
   - C#
   - Typescript 
   - Python
-  - React Native
+  - C++
   - Javascript
   - 
 - 👯 I’m looking forward to collaborate on open source projects.
