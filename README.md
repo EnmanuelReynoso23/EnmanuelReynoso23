@@ -9,8 +9,6 @@ I am a Software Enginner student, currently halfway through my degree. I am expa
   - C#
   - Typescript 
   - Python
-  - C++
-  - Javascript
   - 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
