@@ -12,8 +12,7 @@ ISAPI, and a self-hosted Appwrite stack on an Oracle Cloud ARM server.
 | Project | What it does |
 | --- | --- |
 | [SyntaxRAG](https://github.com/EnmanuelReynoso23/synrag) | Local MCP code search for AI agents: AST chunks, dependency impact, and every published number tied to its benchmark script. |
-| [CompuShare](https://github.com/EnmanuelReynoso23/CompuShare) | Runs one open language model split by layers across computers over the internet, with llama.cpp and a WebSocket relay. |
-| [Animo](https://github.com/EnmanuelReynoso23/tama-p2p) | A virtual pet with habits and streaks, synced phone to phone over WebRTC. The same rules run on a PWA, a Raspberry Pi and an ESP32-C3. |
+| [CompuShare](https://github.com/EnmanuelReynoso23/CompuShare) | Runs one open language model split by layers across computers over the internet, with llama.cpp and a WebSocket relay.
 
 ## Background
 
